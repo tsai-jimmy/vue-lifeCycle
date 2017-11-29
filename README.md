@@ -1,6 +1,7 @@
 # 這個專案主要是講述， vue life cycle
 只要畫面出現“xuxiao is boy”
 即可以看google developer Tools 裡的 console！
+我有在github 開啟gh-pages: https://tsai-jimmy.github.io/vue-lifeCycle/
 
 # 專案過程
 -主要使用 cdn 引入 vue ，讓我可以在 `<script>`裡面使用 `vew vue()`
