@@ -1,19 +1,11 @@
-# Gulp for javascript ES6 template
-- 可以使用javascript es6
-- 可以壓縮圖片
-- sass & scss 寫 css
+# 這個專案主要是講述， vue life cycle
+只要畫面出現“xuxiao is boy”
+即可以看google developer Tools 裡的 console！
 
-* 用npm安裝套件
-```
-npm i
-```
+# 專案過程
+-主要使用 cdn 引入 vue ，讓我可以在 `<script>`裡面使用 `vew vue()`
+-主要運用gulp，可以在本機localhost：3000，將index.html，run起來
 
-* 編譯使用 gulp
-```
-npm gulp
-```
-
-## 修改記錄
-
-### 2017/10/12
- - jsvascript ES6 template 完成
+# 如何運行
+指令：`gulp`
+網址：`http://localhost:3000/`
